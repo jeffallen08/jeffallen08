@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌱 I’m currently learning Ai coding and attempting to build applications that I wish existed in the IT world.
 
 <!--
 **jeffallen08/jeffallen08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
